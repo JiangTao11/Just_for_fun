@@ -84,5 +84,5 @@ def get_index():
     print('登录失败')
 
 
-get_login('1223873989@qq.com', '19931002jt')
+get_login('xxxxxx@mail.com', 'xxxxxxxx')
 get_index()
